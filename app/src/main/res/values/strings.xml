@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">골격계 해부학</string>
+    <!-- Firebase Console → 프로젝트 설정 → 웹 클라이언트 ID -->
+    <string name="default_web_client_id">YOUR_WEB_CLIENT_ID_HERE</string>
+</resources>
